@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taistiop.github.io/sitemap
+Sitemap: https://taistiop.github.io/app/sitemap
+Sitemap: https://taistiop.github.io/assets/sitemap
+Sitemap: https://taistiop.github.io/css/sitemap
+Sitemap: https://taistiop.github.io/includes/sitemap
+Sitemap: https://taistiop.github.io/item/sitemap
+Sitemap: https://taistiop.github.io/src/sitemap
